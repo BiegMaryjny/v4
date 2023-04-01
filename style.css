@@ -323,6 +323,11 @@ p {
 		animation: text_reveal_box 1s ease;
 		animation-delay: 0.5s;
 	}
+}
+#hero h1:nth-child(4) {
+	animation-delay: 2s;
+}
+
 #hero h1:nth-child(1) span {
 	animation-delay: 0.5s;
 }
@@ -330,6 +335,9 @@ p {
 	animation-delay: 1.5s;
 }
 #hero h1:nth-child(3) span {
+	animation-delay: 2.5s;
+}
+#hero h1:nth-child(4) span {
 	animation-delay: 2.5s;
 }
 
