@@ -325,7 +325,7 @@ p {
 	}
 }
 #hero h1:nth-child(4) {
-	animation-delay: 2s;
+	animation-delay: 4s;
 }
 
 #hero h1:nth-child(1) span {
@@ -338,7 +338,7 @@ p {
 	animation-delay: 2.5s;
 }
 #hero h1:nth-child(4) span {
-	animation-delay: 2.5s;
+	animation-delay: 3.5s;
 }
 
 /* End Hero Section */
